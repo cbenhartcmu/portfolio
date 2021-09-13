@@ -9,5 +9,6 @@ I hope to hone my non-cartographic data visualization and create a valuable port
 
 # Portfolio
 
-# Australia's General Debt 
+# Australia's General Debt to GDP Ratio
 <div class="flourish-embed flourish-chart" data-src="visualisation/7254836"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+<div class="flourish-embed flourish-chart" data-src="visualisation/7255074"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
