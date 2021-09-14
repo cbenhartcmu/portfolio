@@ -10,5 +10,11 @@ I hope to hone my non-cartographic data visualization and create a valuable port
 # Portfolio
 
 # Australia's General Debt to GDP Ratio
+Line Chart
 <div class="flourish-embed flourish-chart" data-src="visualisation/7254836"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+Area Chart
 <div class="flourish-embed flourish-chart" data-src="visualisation/7255074"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+These graphs are similar in transmitting the debt-to-GDP ratio, but I feel that the area chart does a better job of transmitting that the number tracked is a ratio where debt is compared to GDP.
+
