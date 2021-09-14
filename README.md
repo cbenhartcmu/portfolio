@@ -16,5 +16,5 @@ Line Chart
 Area Chart
 <div class="flourish-embed flourish-chart" data-src="visualisation/7255074"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-These graphs are similar in transmitting the debt-to-GDP ratio, but I feel that the area chart does a better job of transmitting that the number tracked is a ratio where debt is compared to GDP.
+These graphs are similar in transmitting the debt-to-GDP ratio, but I feel that the area chart does a better job of transmitting that the number tracked is a ratio where debt is compared to GDP; the physical space "filled up" by the debt is a salient representation.
 
