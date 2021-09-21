@@ -21,3 +21,9 @@ Area Chart
 
 These graphs are similar in transmitting the debt-to-GDP ratio, but I feel that the area chart does a better job of transmitting that the number tracked is a ratio where debt is compared to GDP; the physical space "filled up" by the debt is a salient representation.
 
+# Percentage of Active American Podcast Hosts on iTunes by Race and Gender (2010-2015)
+<div class="flourish-embed flourish-chart" data-src="visualisation/7314492"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+I started here with a visualization from a Quartz article about the race and gender of iTunes podcasters in the U.S. I immediately thought that the title was unclear and the color choices could cause someone confusion because they incorrectly corresponded with gendered colors.
+<img src="atlas_VkdPyKPDx.png" alt="original visualization">
+
