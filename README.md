@@ -1,7 +1,7 @@
 # Telling Stories with Data Graduate Portfolio
 This is my public portfolio for Telling Stories with Data at CMU!
 
-[link to Assignments 3 and 4](assignment34.html) 
+[Link to Assignments 3 and 4](Assignment34.html) 
 
 
 
