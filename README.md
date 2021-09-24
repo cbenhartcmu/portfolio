@@ -1,6 +1,13 @@
 # Telling Stories with Data Graduate Portfolio
 This is my public portfolio for Telling Stories with Data at CMU!
 
+[link to Assignments 3 and 4](assignment34.html) 
+
+
+
+
+
+
 # About Me
 My name is Carlee! I am a Pittsburgh-based graduate student who loves data visualization, creative communities, and equity work. 
 
