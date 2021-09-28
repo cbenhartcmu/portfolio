@@ -8,4 +8,12 @@ This will take the form of some slides that are more data visualizations and som
 
 #Initial Sketches
 
-![image](
+![image](https://lh3.googleusercontent.com/OIDHsXrcrhC63fjfdc4Pjtj58eq9OFtCTgPRPRRmaFlY7lG2SkXOOtbwetheJoQPv7E4LEDF7jlx5oM7mLw-ruz8yn6cgNFm_fdQEcGde3Now8o4Ed4XoYMSCijkZfNbAufpf67L3uwKAWQBLFSwr-qD-3MXmO2zTFNFiuUUa6HP9-tXx9oucY_YFaXtznI1odxKaDdyOXQES0Dh-E8D5Yr2dhcGFuoR5i32H4vo9oZhWsheNlmi6fISj4_IPKnbqgusf29mmUzTMIK9hSL7N5cfPgzbMQOpRNJkmaU3qGnAXiLTsNmZacmFIRxRWC7I9mAndkKiMh17hhJt4IRIrt5-bue_Zw0wuQLAZ7074kHz6KV3D7KoqcUr89wr7rTZmAfAAXdiDbl9FEKFBiylhCmqJQaWL84dsUVXg6lVNg4gyqI39znZRWjPOMow4FEIwPQbxeQPmPC73YrR4JRcFIDkbAEVWnIv9NUx5oPKaO6cRKx-Yy-FGxRn7CJA6hm3tiNbxmBXpsLoHttp6RBuVLuzFdAabgeLbmcBip1pjX4vNbkRV5VxBSAF1Jssj87IavNUPC9C0u8ex4TOPYEqf9QwMBPT_5CVzIsovhUI2M-VyTUg-2dBTnjJCyw-DZgXL3Ja49CcbNGwT2-uHOOg3064E0qkJk-97dRtpJJfgzlssNHrmhFln5EpppdEzzc42wMLTIkB7EhzmPwwoDnB4HIy=w1034-h806-no?authuser=0)
+As you can see by the marks on the initial sketches, I rearranged the information after getting feedback to better guide the narrative. I am starting off with an attention getting quote about which victims are seen as newsworthy. Then I will have an infographic about true crime history, a chart about podcast host gender, and suggestions to move forward. 
+
+#Data
+My primary data source is [this dataset about the gender of podcast hosts](https://docs.google.com/spreadsheets/d/1y9nFWbqNV6UA6h1XBPsxEyRtVNTY80xJS6yIjSeBVSc/edit#gid=45177727).
+I will be adding more data as I go along about the rise of true crime media over the last ten years. 
+
+#Method and Medium
+I plan to use Shorthand to build my short presentation. The charts will be made with Flourish and the data I already have, plus some other sources that I have yet to chart. I will bring together the infographic sections using Procreate and Canva. Once my visuals are complete, I plan to run them by some trusted friends, family, and peers to optimize and make sure I'm adequately addressing any questions that would pop up. After that, I will be practicing my presentation and preparing it for posting on this page. 
