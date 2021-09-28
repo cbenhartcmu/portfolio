@@ -1,13 +1,6 @@
 # Telling Stories with Data Graduate Portfolio
 This is my public portfolio for Telling Stories with Data at CMU!
 
-[Link to Assignments 3 and 4](Assignment34.html) 
-
-[Link to Final Project](finalproject.html) 
-
-
-
-
 # About Me
 My name is Carlee! I am a Pittsburgh-based graduate student who loves data visualization, creative communities, and equity work. 
 
@@ -15,6 +8,10 @@ My name is Carlee! I am a Pittsburgh-based graduate student who loves data visua
 I hope to hone my non-cartographic data visualization and create a valuable portfolio to aid in my upcoming job search.
 
 # Portfolio
+
+[Link to Assignments 3 and 4](Assignment34.html) 
+
+[Link to Final Project](finalproject.html) 
 
 # Australia's General Debt to GDP Ratio
 OECD Data Chart
