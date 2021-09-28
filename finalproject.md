@@ -1,10 +1,20 @@
 # Final Project
 
+# Topic Selection
+Since the pandemic began, more people than ever before have turned to true crime media for comfort and entertainment. However, with this increased visibility, the genre has attracted criticism. Detractors say that true crime decreases empathy, unnecessarily creates increased fear of crime, and normalizes graphic violence. I chose this topic because I, as a true crime fan who has started to have qualms myself, wonder how the genre can move forward.
+
 # Outline
 ![image](https://lh3.googleusercontent.com/ouOz43r8Q-cFanyOz3hg7TBfHVfyPz_H9_ZzoXU2mKbXKqtqP1XA_aud_lRc3cwIRdKo7kGgzc3QE_NtqOCBJY-10t83LnC95SDLcFX8museI4PPKQedhmKYzXb-mMjr2Cf9e-UO24BkwNTiIxaC2kD-gekj68uWo_66Eb7LCToHsQojrohEHTkrA0vZyWLAv8JoS8k_sMz6J82t609KsxOyBQy0D29kLZv-lNMEwIkx8U4lwPMP005pXBmgYfsdVaX6xWSJt7e40WIzQFDB6I7e3MiF2cAjQmMpryMIP8WqlQwlu5FUQQyXziG0ULotIYp5LLJBX6rWNUwcgQzMl4ALYXSCJFIofVYoL2U7-ZKEU8v42iOaNKFBd_aHTpgxxeL6nfGrbHsTr16fo5PQS0lny25KMDODPJFou5MKHxFbjC2pP4QQd8DxTsiebHv_Xe3VOtAlxdaQ9w1JV9l-o-D9PVIr780IMmpZ1QlJJaWOcdJkI4GiODerwXOgs62L3SiPIwzxNIUD-qQBt7e9Y7u-PDU03a_k-8z2za7I_fZmHNgKuOA_TEIzfG5MXOtIMvbMCJW_gNG_PUUR5CyeMLQ0dq-pmZkkxaOPOqNkDfTc3DktWeGK9XnU8ojffVzZ7keJnGHR-YfMYmKyziic2yNKt27V6kADXfHl5FwrS95eXQsHwVinGXWpgrAlWH5lIx9hGKMG_TPMp5-nHaMwzeci=w1646-h914-no?authuser=0)
-My project is going to look into some possible ways forward for true crime, which over the last ten years has skyrocketed in popularity, but has recently come under fire for iffy racial politics and fearmongering.
+
 I started out with the outline above, but simplified my story: I am looking to show the history of true crime and its growth as a genre, the racial demographics of podcasters, and then suggest some ways forward for true crime.
 This will take the form of some slides that are more data visualizations and some that are more like an infographic.
+
+Slide 1 - Quote: In order to be written about a murder must have all of the elements: la white, attractive female killed ina horrible way, in an interesting place
+Slide 2 - Graph of the growth of true crime podcasts (backup tv true crime if podcast data isn't available)
+Slide 3 - Infographic about the history of true crime
+Slide 4 - Main problem for newsworthiness is racial lack of empathy. Will this Continue?
+Slide 5 - Podcast Host Gender Graph
+Slide 6 - Ways forward
 
 # Initial Sketches
 
