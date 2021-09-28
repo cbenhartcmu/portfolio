@@ -3,7 +3,7 @@ This is my public portfolio for Telling Stories with Data at CMU!
 
 [Link to Assignments 3 and 4](Assignment34.html) 
 
-
+[Link to Final Project](finalproject.html) 
 
 
 
