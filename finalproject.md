@@ -34,6 +34,7 @@ I plan to use Shorthand to build my short presentation. The charts I'm going to 
 
 # Wireframes and Storyboard
 <script src="https://carnegiemellon.shorthandstories.com/race-gender-and-true-crime/embed.js"></script>
+I created my wireframes here to give an idea of what my final presentation would look like for user testing.
 
 # Critique
 
