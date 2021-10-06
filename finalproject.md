@@ -34,3 +34,42 @@ I plan to use Shorthand to build my short presentation. The charts I'm going to 
 
 # Wireframes and Storyboard
 <script src="https://carnegiemellon.shorthandstories.com/race-gender-and-true-crime/embed.js"></script>
+
+# Critique
+
+a. the target audience you hope to reach with your story: true crime fans and people who are interested in learning more about the genre.
+b. your approach to identifying representative individuals to interview; I interviewed four of the biggest true crime fans I know.
+c/d. your interview script/results; 
+Interviewees were asked: 
+What do you think of my presentation?
+  1 I thought it was really good/thoughtful/evenhanded.
+  2 Great color and engaging format.
+  3 Visually pleasing and easy to follow.
+  4 The presentation is effective and succinct.
+  
+What story do you think I'm telling?
+  1 Shifting perspectives of true crime for fan communities in the aftermath of COVID.
+  2 Giving an overall idea of who watches true crime and what people think about it
+  3 Telling the story of original history of true crimes, and its origin. How females engage more than any other group. I agree that the older I am, white female, the more crime I watch, I feel less empathy for those inflicted with violence against them.  I feel numb, or I have expectations of what is going to happen, since you kind of know what comes next in a patterned sequence of events.
+  4 You are telling a story about most podcasts being produced by white men even though a majority of those engaging with the genre are female. Also shows lack of representation and diversity in the production of podcasts.
+  
+Do the visualizations get my point across?
+  1 Yes, I think they're a highlight and illustrate your point.
+  2 Yes, although I would make them larger to show that they're the highlight.
+  3 Yes, I thought that the line graph was very effective.
+  4 Yes, they look professional and clean, but there are a lot of colors and the data labels are hard to read.
+  
+Is there anything you particularly like or that you don't like about my presentation and visualizations?
+  1 I think the visualizations are strong, made it easy for me to understand the thrust of the presentation.
+  2 I really enjoyed the scroll through format.
+  3 The pie graphs one after the other were very interesting for comparison.
+  4 I would add more to the conclusion.
+  
+e. changes you plan on implementing to your visualizations next week to address the issues identified. 
+
+I will be changing the relative size of the text and visualizations.
+I will be creating a more cohesive color story.
+I will explore better data labels. 
+I will end on a call to action.
+
+
