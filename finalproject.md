@@ -31,3 +31,6 @@ I will be adding more data as I go along about the rise of true crime media over
 # Method and Medium
 
 I plan to use Shorthand to build my short presentation. The charts I'm going to use will be made with Flourish and the data I already have, plus some other sources that I have yet to chart. I will bring together the infographic sections using Procreate and Canva. Once my visuals are complete, I plan to run them by some trusted friends, family, and peers to optimize and make sure I'm adequately addressing any questions that would pop up. After that, I will be practicing my presentation and preparing it for posting on this page. 
+
+# Wireframes and Storyboard
+<script src="https://carnegiemellon.shorthandstories.com/race-gender-and-true-crime/embed.js"></script>
