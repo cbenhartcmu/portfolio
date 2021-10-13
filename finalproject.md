@@ -84,4 +84,12 @@ I will be creating a more cohesive color story.
 I will explore better data labels. 
 I will end on a call to action.
 
+# Final Final Project
 
+For this part of the project, I followed notes from my interviews and Dr. Goranson's advice to shore up the narrative. I also got really nervous and couldn't scroll on a new mouse, which slowed down my presentation. You win some, you lose some!
+
+As you can see, I added a personal touch by expanding on why I was interested in criticisms of true crime (which I think helped direct my efforts to my audience, fans and creators of true crime content), I moved around the placement of my slides, I added titles on graphics and citations at the end instead of inline.
+
+I think that using Shorthand for my project in conjunction with Flourish created a relatively professional looking final presentation but I'm still not totally sold on a scrolling format vs. a slide format for presenting. I think in later projects I may try to replicate my content on slides and put a Shorthand version of the slide content in my portfolio.
+
+<script src="https://carnegiemellon.shorthandstories.com/reforming-true-crime-a-fan-s-perspective/embed.js"></script>
